@@ -66,11 +66,5 @@ This logic ensures that streaks grow only when the user studies **on consecutive
 
 ---
 
-# ⚙️ Setup Instructions
 
-Follow these steps to run the project locally.
 
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/Girish1703/learning-streak-tracker.git
